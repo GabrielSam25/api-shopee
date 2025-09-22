@@ -13,7 +13,7 @@
   "dependencies": {
     "@sparticuz/chromium": "*",
     "playwright-core": "*",
-    "vercel": "*"
-    "axios": "*"
+    "vercel": "*",
+    "axios": "*",
   }
 }
