@@ -14,6 +14,6 @@
     "@sparticuz/chromium": "*",
     "playwright-core": "*",
     "vercel": "*",
-    "axios": "*",
+    "axios": "*"
   }
 }
